@@ -1,2 +1,2 @@
 # Mobile-Automation
-Mobile automation sample code using Python, Java, Appium, API testing, and Flutter.
+Mobile automation sample code using Python, Java, Appium, and API testing.
